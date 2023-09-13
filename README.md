@@ -1,2 +1,2 @@
-# rar_curso
+# CURSO_1_SEMESTRE
 guardando as coisas do curso
